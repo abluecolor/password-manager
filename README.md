@@ -1,6 +1,6 @@
 # password-manager
 
-A simple password manager project, "password-manager," with two modes: adding new passwords and viewing saved passwords. The password manager utilizes the Fernet encryption algorithm from the cryptography library to ensure password confidentiality.
+A simple password manager project, "password-manager," with two modes: adding new passwords and viewing saved passwords. The password manager utilizes the Fernet symmetric encryption technique (available through the cryptography module in Python) to encrypt and decrypt text.
 
 ## lessons learned
 
